@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am computer science student at Passau University in Germany
+- I am computer science student at Passau University in Germany and a sys admin in Munich
